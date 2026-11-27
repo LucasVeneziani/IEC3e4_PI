@@ -10,7 +10,25 @@ Breno Rodrigues da Silva.
 Guilherme Barbosa Lisboa.
 Erick Ferreira da Silva.
 
+
+# Imagens da Atividade 3
+
+![](assets/ImagensCaptura/1.png)
+![](assets/ImagensCaptura/2.png)
+![](assets/ImagensCaptura/3.png)
+![](assets/ImagensCaptura/4.png)
+![](assets/ImagensCaptura/5.png)
+![](assets/ImagensCaptura/6.png)
+![](assets/ImagensCaptura/7.png)
+![](assets/ImagensCaptura/9.png)
+![](assets/ImagensCaptura/10.png)
+![](assets/ImagensCaptura/11.png)
+
+
+
+
 ## Funcionamento
+
 
 **Entrada:** foto de uma roupa ou de qualquer objeto, ou um código de barras / QR code.
 **Saída:** identificação do item, faixa de preço de usado em BRL e anúncios comparáveis.
